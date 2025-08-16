@@ -1,5 +1,3 @@
-## 📊 Tableau Dashboards
-
 # 📊 Tableau Dashboards  
 
 This repository contains a collection of interactive Tableau dashboards created as part of my data visualization practice and portfolio.  
@@ -41,12 +39,19 @@ Practice Level of Detail (LOD) expressions in Tableau by recreating a Workout We
 
 🔗 [View on Tableau Public](https://public.tableau.com/app/profile/pooja2481/viz/Workoutwednesday2018week4-Recreation/Dashboard1)  
 
----
+## 🎓 Dashboard 3: European Countries – Average University Cost  
 
-## 📂 Repository Structure  
+**Objective:**  
+Analyze and visualize the average university costs (tuition + living expenses) across European countries for EU students.  
 
-### 1. Average University Costs - Concepts applied (grey)
-1. [University Cost Concepts applied](https://public.tableau.com/app/profile/pooja2481/viz/AverageUniversityCosts-Conceptsappliedgrey/Dashboard2)
-2. [Share of U.S. Adults that say it is wrong to eat certain animals - Recreation](https://public.tableau.com/app/profile/pooja2481/viz/ShareofU_S_Adultsthatsayitiswrongtoeatcertainanimals-Recreation/Dashboard1)
-3. [Table Customer by years](https://public.tableau.com/app/profile/pooja2481/viz/Workoutwednesday2018week4-Recreation/Dashboard1)
+**Key Highlights:**  
+- **Bar Chart:** Ranks countries by average total costs.  
+- **Tile Map:** Bubble layout for quick country-level comparison.  
+- **Geographical Map:** Highlights cost distribution across Europe.  
+- **Color Encoding:** Light gray indicates countries with missing cost data.  
+
+📸 **Preview:**  
+![University Costs Dashboard](https://github.com/pooja2434/Tableau-Dashboards/blob/main/Tableau%20Dashboard%20Image.png)  
+
+🔗 [View on Tableau Public](https://public.tableau.com/app/profile/pooja2481/viz/AverageUniversityCosts-Conceptsappliedgrey/Dashboard2)  
 
